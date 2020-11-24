@@ -7,4 +7,16 @@
 
 [Урок 5](https://komradol.github.io/lesson_5/ "Моя готовая домашка") - Книга свёрстанная по HTML и CSS
 
+[Урок 6.1 и Урок 6.2](https://komradol.github.io/lesson_6/ "Моя готовая домашка") - Тренировка позиционирования
+
+[Урок 7](https://komradol.github.io/lesson_7/ "Моя готовая домашка") - Первый свёрстанный сайт по HTML и CSS
+
+[Урок 8](https://komradol.github.io/lesson_8/ "Моя готовая домашка") - Знакомство с сеткой bootstrap
+
+[Урок 9](https://komradol.github.io/lesson_9/ "Моя готовая домашка") - Сайт из урока 7,но с bootstrap
+
+[Урок 10](https://komradol.github.io/lesson_10/ "Моя готовая домашка") - Знакомство с LESS
+
 [Урок 12](https://komradol.github.io/Lesson_12/ "Моя готовая домашка") - Работа с репозиторием
+
+[Урок 13](https://komradol.github.io/lesson_5/ "Моя готовая домашка") - Вёрстка PixelPerfect
