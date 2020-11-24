@@ -1,0 +1,61 @@
+body {
+  max-width: 1200px;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+}
+
+h1 {
+  font-size: 22px;
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+  color: green;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  font-size: 16px;
+  text-transform: none;
+  color: red;
+}
+
+section {
+  width: 960px;
+  margin: 10px auto;
+  border: 2px solid green;
+}
+
+h2 {
+  text-decoration: none;
+  font-size: 18px;
+  text-transform: none;
+  text-align: center;
+}
+
+.norm {
+  width: 890px;
+  margin: auto;
+  text-align: left;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.dell {
+  text-decoration: underline;
+  color: #eee;
+}
+
+.ins {
+  text-decoration: overline;
+}
+
+.italic {
+  font-style: italic;
+}
