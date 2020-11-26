@@ -17,6 +17,6 @@
 
 [Урок 10](https://komradol.github.io/lesson_10/ "Моя готовая домашка") - Знакомство с LESS
 
-[Урок 12](https://komradol.github.io/Lesson_12/ "Моя готовая домашка") - Работа с репозиторием
+[Урок 12](https://komradol.github.io/ "Моя готовая домашка") - Работа с репозиторием
 
 [Урок 13](https://komradol.github.io/lesson_5/ "Моя готовая домашка") - Вёрстка PixelPerfect
