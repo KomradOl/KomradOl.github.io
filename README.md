@@ -19,4 +19,4 @@
 
 [Урок 12](https://komradol.github.io/ "Моя готовая домашка") - Работа с репозиторием
 
-[Урок 13](https://komradol.github.io/lesson_5/ "Моя готовая домашка") - Вёрстка PixelPerfect
+[Урок 13](https://komradol.github.io/lesson_13/ "Моя готовая домашка") - Вёрстка PixelPerfect
