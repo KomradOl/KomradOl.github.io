@@ -22,3 +22,5 @@
 [Урок 13](https://komradol.github.io/lesson_13/ "Моя готовая домашка") - Вёрстка PixelPerfect
 
 [Урок 14](https://komradol.github.io/lesson_14/ "Моя готовая домашка") - Шапка сайта
+
+[Урок 14](https://komradol.github.io/lesson_15/ "Моя готовая домашка") - Шрифты
