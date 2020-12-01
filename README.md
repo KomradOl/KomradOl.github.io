@@ -23,4 +23,4 @@
 
 [Урок 14](https://komradol.github.io/lesson_14/ "Моя готовая домашка") - Шапка сайта
 
-[Урок 14](https://komradol.github.io/lesson_15/ "Моя готовая домашка") - Шрифты
+[Урок 15](https://komradol.github.io/lesson_15/ "Моя готовая домашка") - Шрифты
