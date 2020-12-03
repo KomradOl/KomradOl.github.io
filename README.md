@@ -26,3 +26,5 @@
 [Урок 15](https://komradol.github.io/lesson_15/ "Моя готовая домашка") - Шрифты
 
 [Урок 16](https://komradol.github.io/lesson_16/ "Моя готовая домашка") - Первый экран сайта
+
+[Урок 17](https://komradol.github.io/lesson_17/ "Моя готовая домашка") - Псевдоэлементы
