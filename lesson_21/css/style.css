@@ -1,0 +1,12 @@
+.btn {
+  display: block;
+  background-color: blue;
+  color: #fff;
+  width: 100%;
+}
+img {
+  width: 100%;
+}
+.modal-title {
+  text-align: center;
+}
