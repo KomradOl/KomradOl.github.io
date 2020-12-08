@@ -34,3 +34,5 @@
 [Урок 19](https://komradol.github.io/lesson_19/ "Моя готовая домашка") - Слайдер
 
 [Урок 20](https://komradol.github.io/lesson_20/ "Моя готовая домашка") - Блок преимуществ
+
+[Урок 21](https://komradol.github.io/lesson_21/ "Моя готовая домашка") - Модальное окно
