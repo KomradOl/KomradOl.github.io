@@ -38,3 +38,7 @@
 [Урок 21](https://komradol.github.io/lesson_21/ "Моя готовая домашка") - Модальное окно
 
 [Урок 22](https://komradol.github.io/lesson_22/ "Моя готовая домашка") - Модальное окно на сайте
+
+[Урок 23_1](https://komradol.github.io/lesson_23_1/ "Моя готовая домашка") - Табы
+
+[Урок 23_2](https://komradol.github.io/lesson_23_2/ "Моя готовая домашка") - Аккордион
