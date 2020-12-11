@@ -42,3 +42,5 @@
 [Урок 23_1](https://komradol.github.io/lesson_23_1/ "Моя готовая домашка") - Табы
 
 [Урок 23_2](https://komradol.github.io/lesson_23_2/ "Моя готовая домашка") - Аккордион
+
+[Урок 24](https://komradol.github.io/lesson_24/ "Моя готовая домашка") - Блок с ценами
