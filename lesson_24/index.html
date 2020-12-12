@@ -10,6 +10,7 @@
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/animate.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -65,7 +66,7 @@
               </div>
             </div>
             <div class="col-lg-4 col-lg-offset-2 col-md-5 col-md-offset-0 col-sm-8 col-sm-offset-2">
-              <div class="main-form">
+              <div class="main-form wow animate__animated animate__jello">
                 <h2 class="main-form-header">Для расчёта точной стоимости
                   <br>закажите <strong> выезд замерщика</strong>
                 </h2>
@@ -212,7 +213,7 @@
             Заинтересовало?
           </h4>
           <p>Оставьте свои контактные данные <br>для связи</p>
-          <div class="main-form popup-form">
+          <div class="main-form popup-form wow animate__animated animate__jello">
             <form action="#">
               <label for="#">Ваше имя</label>
               <input class="main-form-input" type="text">
@@ -233,6 +234,11 @@
     <link rel="stylesheet" href="slick/slick-theme.css">
     <!-- Подключаем библиотеку slick-slider -->
     <script src="slick/slick.min.js"></script>
+    <script src="js/wow.min.js"></script>
+    <script>
+      var wow = new WOW;
+      wow.init();
+    </script>
 
     <!-- Инициализируем слайдер -->
     <script>
