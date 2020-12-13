@@ -48,3 +48,5 @@
 [Урок 25](https://komradol.github.io/lesson_25/ "Моя готовая домашка") - Блок с отзывами + блок с формой
 
 [Урок 26](https://komradol.github.io/lesson_26/ "Моя готовая домашка") - Видео-фон
+
+[Урок 27](https://komradol.github.io/lesson_27/ "Моя готовая домашка") - Паралакс и Релакс
