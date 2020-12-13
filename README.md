@@ -45,6 +45,6 @@
 
 [Урок 24](https://komradol.github.io/lesson_24/ "Моя готовая домашка") - Блок с ценами
 
-[Урок 25](https://komradol.github.io/lesson_25/ "Моя готовая домашка") - Блок с отзывами
+[Урок 25](https://komradol.github.io/lesson_25/ "Моя готовая домашка") - Блок с отзывами + блок с формой
 
 [Урок 26](https://komradol.github.io/lesson_26/ "Моя готовая домашка") - Видео-фон
