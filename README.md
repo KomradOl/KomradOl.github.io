@@ -50,3 +50,6 @@
 [Урок 26](https://komradol.github.io/lesson_26/ "Моя готовая домашка") - Видео-фон
 
 [Урок 27](https://komradol.github.io/lesson_27/ "Моя готовая домашка") - Паралакс и Релакс
+
+[Урок 28](https://komradol.github.io/lesson_28/ "Моя готовая домашка") - Блоки Scheme & All 
+
