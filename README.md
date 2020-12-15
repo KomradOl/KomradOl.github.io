@@ -51,5 +51,7 @@
 
 [Урок 27](https://komradol.github.io/lesson_27/ "Моя готовая домашка") - Паралакс и Релакс
 
-[Урок 28](https://komradol.github.io/lesson_28/ "Моя готовая домашка") - Блоки Scheme & All 
+[Урок 28](https://komradol.github.io/lesson_28/ "Моя готовая домашка") - Блоки Scheme & All
+
+[Урок 29](https://komradol.github.io/lesson_29/ "Моя готовая домашка") - Мы развеем все опасения
 
